@@ -1,5 +1,4 @@
 # aerospike-scala-dsl
-![N|Solid](https://avatars0.githubusercontent.com/u/5486989?v=3&s=100)
 
 To start working with Aerospike using this DSL you have to add dependency sbt:
 ```sh
